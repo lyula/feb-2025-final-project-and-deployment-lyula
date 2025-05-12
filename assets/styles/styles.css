@@ -183,6 +183,15 @@ footer {
     width: 100%;
 }
 
+h1, p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Ensure text is centered */
+    margin: 20 auto; /* Center the elements horizontally */
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     nav ul {
