@@ -39,5 +39,4 @@ This project is a demonstration of the concepts and skills learned throughout th
 
 ### Deployment Link
 
-[View the Project Here](#)  
-*(Replace `#` with the actual hosted link of your project once deployed.)*
+[View the Project Here](https://lyulaspersonalblog.vercel.app/)  
